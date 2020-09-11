@@ -1,1 +1,11 @@
 *.o
+*.ko
+*.cmd
+Module.symvers
+built-in.a
+halmac/.rtl_halmac.o.d
+modules.order
+phydm/.rtl_phydm.o.d
+r8822be.mod
+r8822be.mod.c
+rtl8822be/modules.order
